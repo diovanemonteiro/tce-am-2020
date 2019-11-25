@@ -73,10 +73,11 @@
 
 ## Passo Estratégico
 
-Pacote Passo Estratégico p/ TCE-SC (Auditor de Controle Externo - Informática) - 2020 
+- Pacote Passo Estratégico p/ TCE-SC (Auditor de Controle Externo - Informática) - 2020 
 
 ## Trilhas Estratégicas
 
 - Trilha Estratégica p/ Área de Controle/Gestão (Auditor/Analista)
 - Trilha Estratégica p/ Área de Controle/Gestão (Auditor e Analista) (Pré-Edital 2019.2)
+- Trilha Estratégica p/ TCE-RO (Analista de Tecnologia da Informação) 2019
 - Trilha Estratégica p/ TCE-SC (Auditor de Controle Externo - Administração) 2019
